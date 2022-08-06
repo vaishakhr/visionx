@@ -1,0 +1,1 @@
+# VS code and Git integration test. Ignore this file
